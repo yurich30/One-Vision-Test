@@ -4,3 +4,19 @@
 .header {
     margin: auto 150px;
 }
+.main{
+    display: flex;
+    justify-content: right;
+}
+.row{
+    display: flex;
+}
+.w50{
+    width: 50%;
+}
+.w60{
+    width: 60%;
+}
+.w40{
+    width: 40%;
+}
