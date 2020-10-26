@@ -3,3 +3,20 @@
         margin: 0;
     }
 }
+@media(max-width: 767px){
+    .main{
+        display: block;
+    }
+    .row{
+        display: block;
+    }
+    .w50{
+        width: 100%;
+    }
+    .w60{
+        width: 100%;
+    }
+    .w40{
+        width: 100%;
+    }
+}
